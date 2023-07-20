@@ -1,0 +1,28 @@
+[
+    {
+        "title": "section_arr_item.title",
+        "length": 9,
+        "data_arr": [
+            {
+                "length": [2, 1, 1, 1, 1, 1, 1],
+                "sub_title": "section_arr_item.data_arr_item.sub_title",
+                "content_arr": [
+                    {
+                        "key": "section_arr_item.data_arr_item.content_arr_item",
+                        "length": [
+                            [1, 2],
+                            [4],
+                            [2],
+                            [1],
+                            [1],
+                            [1],
+                            [1],
+                            [1],
+                            [1]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

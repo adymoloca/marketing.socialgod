@@ -1,0 +1,73 @@
+[
+    {
+        "title": "favorites",
+        "children": [
+        ]
+    },
+    {
+        "title": "dashboard",
+        "children": [
+            {
+                "type": "item",
+                "title": "dashboard",
+                "icon": "bar_chart_4_bars",
+                "url": "dashboard"
+            },
+            {
+                "type": "collapse",
+                "title": "reddit",
+                "icon": "bar_chart_4_bars",
+                "url": "reddit",
+                "children": [
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "upvotes",
+                        "url": "upvotes"
+                    },
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "post-schelduler",
+                        "url": "post-schelduler"
+                    }
+                ]
+            },
+            {
+                "type": "item",
+                "title": "wallet",
+                "icon": "monetization_on",
+                "url": "wallet"
+            },
+            {
+                "type": "item",
+                "title": "products",
+                "icon": "inventory_2",
+                "url": "products"
+            },
+            {
+                "type": "item",
+                "title": "settings",
+                "icon": "settings_account_box",
+                "url": "settings"
+            }
+        ]
+    },
+    {
+        "title": "info",
+        "children": [
+            {
+                "type": "item",
+                "title": "post_alert",
+                "icon": "report_problem",
+                "url": "/post-alert"
+            },
+            {
+                "type": "item",
+                "title": "information",
+                "icon": "info",
+                "url": "/information"
+            }
+        ]
+    }
+]

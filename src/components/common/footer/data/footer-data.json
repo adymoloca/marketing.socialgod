@@ -1,0 +1,90 @@
+[
+    {
+        "type": "title",
+        "title": "footer.titles.product",
+        "url": "/",
+        "children": [
+            {
+                "type": "button",
+                "title": "footer.products.scheduling",
+                "url": "/scheduling"
+            },
+            {
+                "type": "button",
+                "title": "footer.products.analytics",
+                "url": "/analitics"
+            },
+            {
+                "type": "button",
+                "title": "footer.products.research",
+                "url": "/research"
+            },
+            {
+                "type": "button",
+                "title": "footer.products.roadmap",
+                "url": "/roadmap"
+            }
+        ]
+    },
+    {
+        "type": "title",
+        "title": "footer.titles.company",
+        "url": "/",
+        "children": [
+            {
+                "type": "button",
+                "title": "footer.company.blog",
+                "url": "/blog"
+            },
+            {
+                "type": "button",
+                "title": "footer.company.careers",
+                "url": "/carees"
+            },
+            {
+                "type": "button",
+                "title": "footer.company.affiliate_program",
+                "url": "/affiliate-program"
+            }
+        ]
+    },
+    {
+        "type": "title",
+        "title": "footer.titles.support",
+        "url": "/",
+        "children": [
+            {
+                "type": "button",
+                "title": "footer.support.contact_us",
+                "url": "/contact"
+            },
+            {
+                "type": "button",
+                "title": "footer.support.report_a_bug",
+                "url": "/report"
+            },
+            {
+                "type": "button",
+                "title": "footer.support.request_a_new_future",
+                "url": "/request-future"
+            }
+        ]
+    },
+    {
+        "type": "title",
+        "title": "footer.titles.use_cases",
+        "url": "/",
+        "children": [
+            {
+                "type": "button",
+                "title": "footer.use_cases.for_agencies",
+                "url": "/teams"
+            },
+            {
+                "type": "button",
+                "title": "footer.use_cases.for_personal_use",
+                "url": "/translations"
+            }
+        ]
+    }
+]

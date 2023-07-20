@@ -1,0 +1,22 @@
+[
+    {
+        "regex": "^(?=.*[a-z])",
+        "message": "Password should contain at one least lowercase letter! :("
+    },
+    {
+        "regex": "^(?=.*[A-Z])",
+        "message": "Password should contain at least one uppercase letter! :("
+    },
+    {
+        "regex": "^(?=.*[0-9])",
+        "message": "Password should contain at least one number! :("
+    },
+    {
+        "regex": "^(?=.*[!@#$%^&*])",
+        "message": "Password should contain at least  one special character! :("
+    },
+    {
+        "regex": "^(?=.{8,32})" ,
+        "message": "Password  must contain 8-32 characters! :("
+    }
+]

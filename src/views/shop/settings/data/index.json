@@ -1,0 +1,12 @@
+[
+    {
+        "icon": "translate",
+        "title": "language",
+        "handler": 0
+    },
+    {
+        "icon": "display",
+        "title": "display",
+        "handler": 1
+    }
+]

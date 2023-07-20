@@ -1,0 +1,37 @@
+[
+    {
+        "icon": "mdi:dollar",
+        "title": "10$ Package",
+        "benefits": ["+30%", "0.15/Upvote", "6.5 Credits", "65 Upvotes"]
+    },
+    {
+        "icon": "mdi:cart",
+        "title": "30$ Package",
+        "benefits": ["+40%", "0.14/Upvote", "21 Credits", "210 Upvotes"]
+    },
+    {
+        "icon": "gridicons:trophy",
+        "title": "50$ Package",
+        "benefits": ["+50%", "0.13/Upvote", "37.5 Credits", "375 Upvotes"]
+    },
+    {
+        "icon": "clarity:coin-bag-solid",
+        "title": "200$ Package",
+        "benefits": ["+70%", "0.11/Upvote", "170 Credits", "1700 Upvotes"]
+    },
+    {
+        "icon": "mingcute:lightning-fill",
+        "title": "500$ Package",
+        "benefits": ["+85%", "0.10/Upvote", "462.5 Credits", "4625 Upvotes"]
+    },
+    {
+        "icon": "fluent-mdl2:gift-box-solid",
+        "title": "1000$ Package",
+        "benefits": ["+120%", "0.09/Upvote", "1100 Credits", "11000 Upvotes"]
+    },
+    {
+        "icon": "ic:sharp-star",
+        "title": "2000$ Package",
+        "benefits": ["+150%", "0.08/Upvote", "2500 Credits", "25000 Upvotes"]
+    }
+]

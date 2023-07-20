@@ -1,0 +1,325 @@
+{
+    "settings": "setari",
+    "products": "produsele noastre",
+    "checkout": "checkout",
+    "wallet": "wallet",
+    "dashboard": "dashboard",
+    "email": "email",
+    "sign_in": "conectare",
+    "sign_up": "inregistrare",
+    "password": "parola",
+    "romanian": "romana",
+    "english": "engleza",
+    "language": "limba",
+    "proxies": "proxiuri",
+    "google_accounts": "conturi google",
+    "reddit_accounts": "conturi reddit",
+    "staff": "personal",
+    "post_alert": "posteaza alerta",
+    "information": "informatii",
+    "all_proxies": "toate proxiurile",
+    "add_proxies": "adauga proxiuri",
+    "all_accounts": "toate conturile",
+    "create_account": "creaza cont",
+    "members": "membrii",
+    "add_members": "adauga membrii",
+    "change_password": "schimba parola",
+    "privacy_and_security": "confidentialitate si securitate",
+    "active_bots": "boti activi",
+    "all_bots": "toti botii",
+    "name": "nume",
+    "role": "rol",
+    "actions": " ",
+    "show_details": "arata detalii",
+    "id": "id",
+    "bots": "bots",
+    "user_name": "nume de utilizator",
+    "host": "host",
+    "city": "oras",
+    "country": "tara",
+    "rows_pre_page": "randuri / pagina",
+    "select_proxy_type": "selecteaza tipul de proxiuri",
+    "add_proxies_input_description": "lista de proxiuri ( trebuie sa contina un proxi pe rand )**",
+    "create_google_accounts": "creaza conturi de google",
+    "select_create_accounts_models": "selecteaza modelul de creare a conturilor",
+    "list_selected_names": "Lista de nume adaugate*",
+    "create_google_accounts_input_description_start": "Trebuie sa adaugi o lista de ",
+    "create_google_accounts_input_description_end": " de nume pentru a crea conturile ( list format: Jhon Snow; Michael Jackson) *",
+    "number_accounts_create_input": "numarul de conturi de creat",
+    "time_accounts_create_input": "durata in care se creaza conturile ( min )",
+    "add_reddit_account": "adauga conturi de reddit",
+    "list_accounts_reddit": "lista de conturi ( trebuie sa fie un cont / rand )**",
+    "add_list_reddit_acounts_input_description": "Trebuie sa adaugi o lista de conturi pentru a fi adaugate ( nume utilizator: parola ) *",
+    "disponible_google_acounts": "conturi google disponibile",
+    "how_many_select_amount": "Cate conturi vrei sa creezi? Selecteaza cantitatea",
+    "select_accounts_display_inputs": "Selecteaza numarul de conturi pe care vrei sa le creezi pentru a afisa inputurile necesare",
+    "staff_members": "membrii personalului",
+    "add_staff_members": "adauga membrii",
+    "access": "acces",
+    "confirm_password": "confirma parola",
+    "old_password": "parola veche",
+    "new_password": "parola noua",
+    "create_bot": "creaza bot",
+    "first_name": "Nume",
+    "last_name": "Prenume",
+    "remove_from_favorites": "Elimina de la favorite",
+    "add_to_favorites": "Adauga la favorite",
+    "privacy_policy": {
+        "title": "Politica de confidențialitate",
+        "section_1": {
+            "title": "Informațiile pe care le colectăm",
+            "data_1": {
+                "sub_title": "Informații personale",
+                "content_1": "Atunci când creați un cont sau utilizați serviciile noastre, putem colecta anumite informații personale, cum ar fi numele dumneavoastră, adresa de email și informații de facturare."
+            },
+            "data_2": {
+                "sub_title": "Informații privind utilizarea și tehnice",
+                "content_1": "Putem colecta informații despre interacțiunile dumneavoastră cu site-ul nostru, inclusiv adresa IP, informații despre dispozitiv, tipul de browser și sistemul de operare.",
+                "content_2": "Putem utiliza module cookie și tehnologii de urmărire similare pentru a vă îmbunătăți experiența pe site-ul nostru și pentru a obține informații despre modul în care îl utilizați."
+            }
+        },
+        "section_2": {
+            "title": "Utilizarea informațiilor",
+            "data_1": {
+                "sub_title": "Putem utiliza informațiile colectate pentru:",
+                "content_1": "Furnizarea și personalizarea serviciilor noastre pentru dumneavoastră.",
+                "content_2": "Comunicarea cu dumneavoastră în legătură cu contul dumneavoastră, actualizări și oferte promoționale.",
+                "content_3": "Analizarea și îmbunătățirea serviciilor noastre, inclusiv depanarea, analiza datelor și cercetarea.",
+                "content_4": "Respectarea obligațiilor legale și protejarea drepturilor, siguranței și proprietății Companiei și a utilizatorilor noștri."
+            }
+        },
+        "section_3": {
+            "title": "Partajarea informațiilor",
+            "data_1": {
+                "sub_title": "Putem partaja informațiile personale cu",
+                "content_1": "Furnizorii de servicii terțe care ne ajută să operăm site-ul nostru și să furnizăm serviciile. Acești furnizori de servicii sunt obligați să gestioneze informațiile dumneavoastră în conformitate cu această politică.",
+                "content_2": "Autoritățile de aplicare a legii, autoritățile guvernamentale sau alte părți terțe, în cazul în care este cerut de lege sau este rezonabil necesar pentru a proteja drepturile noastre legale, a respecta procesele legale sau a răspunde la reclamații."
+            }
+        },
+        "section_4": {
+            "title": "Securitatea datelor",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Implementăm măsuri de securitate rezonabile pentru a proteja confidențialitatea și integritatea informațiilor dumneavoastră personale. Cu toate acestea, vă rugăm să rețineți că nicio măsură de securitate nu este complet infailibilă și nu putem garanta securitatea absolută a informațiilor dumneavoastră."
+            }
+        },
+        "section_5": {
+            "title": "Transferul internațional de date",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Informațiile dumneavoastră personale pot fi transferate și procesate în țări în afara țării dumneavoastră. Utilizând serviciile noastre, sunteți de acord cu transferul informațiilor dumneavoastră către țări care pot avea legi diferite privind protecția datelor față de țara dumneavoastră de rezidență."
+            }
+        },
+        "section_6": {
+            "title": "Opțiunile dumneavoastră",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Puteți accesa, actualiza și șterge anumite informații personale prin setările contului dumneavoastră. De asemenea, vă puteți dezabona de la comunicările noastre de marketing, urmând instrucțiunile furnizate."
+            }
+        },
+        "section_7": {
+            "title": "Confidențialitatea copiilor",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Serviciile noastre nu sunt destinate persoanelor sub vârsta de 18 ani. Nu colectăm sau solicităm în mod intenționat informații personale de la copii. Dacă aflăm că am colectat informații personale de la un copil fără consimțământul părintelui, vom lua măsuri pentru a șterge acele informații."
+            }
+        },
+        "section_8": {
+            "title": "Modificări ale acestei politici",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Putem actualiza această politică periodic. Vă vom notifica cu privire la orice modificări semnificative prin postarea politicii actualizate pe site-ul nostru sau prin alte canale de comunicare."
+            }
+        },
+        "section_9": {
+            "title": "Contactați-ne",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Dacă aveți întrebări sau preocupări cu privire la această politică sau practicile noastre de date, vă rugăm să ne contactați la [informațiile de contact]."
+            }
+        }
+    },
+
+    "terms_of_service": {
+        "title": "Termeni și condiții",
+        "section_1": {
+            "title": "Înregistrarea unui cont",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Pentru a accesa anumite funcționalități ale site-ului nostru, este posibil să fie necesar să creați un cont. Trebuie să furnizați informații precise și complete în timpul procesului de înregistrare.",
+                "content_2": "Sunteți singurul responsabil de menținerea confidențialității contului și a parolei, și sunteți de acord să acceptați responsabilitatea pentru toate activitățile care apar în cadrul contului dumneavoastră."
+            }
+        },
+        "section_2": {
+            "title": "Servicii",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Site-ul nostru oferă diverse servicii de social media, inclusiv, dar fără a se limita la, cumpărarea de urmăritori, stimulente și programare de postări.",
+                "content_2": "Nu garantăm rezultate specifice sau rezultate din utilizarea serviciilor noastre. Eficiența serviciilor poate varia în funcție de diferiți factori, inclusiv natura platformei de social media și angajamentul utilizatorului.",
+                "content_3": "Înțelegeți și sunteți de acord că utilizarea serviciilor noastre poate fi supusă termenilor și politicilor platformelor de social media respective. Este responsabilitatea dumneavoastră să respectați acești termeni și politici."
+            }
+        },
+        "section_3": {
+            "title": "Obligațiile utilizatorului",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Vă angajați să utilizați serviciile noastre în conformitate cu toate legile, reglementările și drepturile terților aplicabile.",
+                "content_2": "Nu trebuie să utilizați serviciile noastre în scopuri ilegale, frauduloase sau neautorizate.",
+                "content_3": "Recunoașteți că urmăritorii, stimulentele sau alte activități de social media obținute prin intermediul serviciilor noastre pot fi generate de procese automate sau furnizori terți. Sunteți de acord să nu ne considerați responsabili pentru acțiunile sau comportamentul acestor urmăritori sau stimulente."
+            }
+        },
+        "section_4": {
+            "title": "Plată și rambursări",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Este posibil să vi se solicite să plătiți taxe pentru serviciile pe care le achiziționați prin intermediul site-ului nostru. Toate plățile vor fi efectuate prin intermediul gateway-ului de plată desemnat.",
+                "content_2": "Ne rezervăm dreptul de a modifica prețurile și tarifele noastre în orice moment. Orice modificare va avea efect imediat după publicarea acesteia pe site-ul nostru.",
+                "content_3": "Rambursările pot fi acordate în conformitate cu politica noastră de rambursare, care poate fi găsită pe site-ul nostru."
+            }
+        },
+        "section_5": {
+            "title": "Proprietate intelectuală",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Toate conținuturile și materialele disponibile pe site-ul nostru, inclusiv, dar fără a se limita la, text, grafică, sigle, imagini și software, sunt proprietate intelectuală a companiei sau a licențiatorilor săi.",
+                "content_2": "Nu puteți utiliza, reproduce, distribui, modifica sau crea opere derivate ale oricărui conținut sau materiale de pe site-ul nostru fără consimțământul nostru prealabil scris."
+            }
+        },
+        "section_6": {
+            "title": "Limitarea răspunderii",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "În măsura maximă permisă de lege, nu vom fi responsabili pentru daunele directe, indirecte, incidentale, consecințiale sau speciale rezultate din utilizarea serviciilor noastre.",
+                "content_2": "Nu oferim nicio garanție sau reprezentare în ceea ce privește disponibilitatea, exactitatea sau fiabilitatea serviciilor noastre."
+            }
+        },
+        "section_7": {
+            "title": "Întrerupere",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Putem suspenda sau încheia accesul dumneavoastră la site-ul nostru și la serviciile noastre în orice moment și din orice motiv, fără notificare prealabilă sau răspundere."
+            }
+        },
+        "section_8": {
+            "title": "Răspundere",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Vă angajați să ne despăgubiți, să ne apărați și să ne eliberați de orice pretenții, răspunderi, daune, pierderi, costuri, cheltuieli sau taxe rezultate din utilizarea serviciilor noastre sau din încălcarea acestui Acord de către dumneavoastră."
+            }
+        },
+        "section_9": {
+            "title": "Legea aplicabilă și jurisdicția",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Acest Acord va fi guvernat și interpretat în conformitate cu legile [jurisdicția dumneavoastră].",
+                "content_2": "Orice dispută rezultată din sau în legătură cu acest Acord va fi supusă jurisdicției exclusive a instanțelor din [jurisdicția dumneavoastră]."
+            }
+        },
+        "section_10": {
+            "title": "Modificări ale termenilor",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Ne rezervăm dreptul de a modifica sau actualiza acești termeni și condiții în orice moment, fără notificare prealabilă. Este responsabilitatea dumneavoastră să verificați periodic această pagină pentru a fi la curent cu eventualele modificări."
+            }
+        },
+
+        "section_11": {
+            "title": "Acordul integral",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Acest Acord constituie acordul integral dintre dumneavoastră și Companie în ceea ce privește utilizarea site-ului nostru web și a serviciilor noastre, înlocuind orice acorduri sau înțelegeri anterioare."
+            }
+        },
+        "section_12": {
+            "title": "Modificări",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Ne rezervăm dreptul de a modifica sau actualiza aceste Termeni și Condiții în orice moment, fără o notificare prealabilă. Orice modificări vor intra în vigoare imediat ce sunt postate pe site-ul nostru. Este responsabilitatea dumneavoastră să revizuiți periodic acești Termeni și Condiții pentru a fi la curent cu orice actualizări sau modificări."
+            }
+        },
+        "section_13": {
+            "title": "Legături externe",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Site-ul nostru poate conține legături către site-uri web sau servicii ale unor terțe părți care nu sunt deținute sau controlate de către Companie.",
+                "content_2": "Noi nu susținem și nu ne asumăm nicio responsabilitate pentru conținutul, politicile de confidențialitate sau practicile oricăror site-uri web sau servicii ale unor terțe părți. Recunoașteți și sunteți de acord că Compania nu va fi responsabilă direct sau indirect pentru nicio daună sau pierdere cauzată sau pretinsă a fi cauzată de utilizarea sau încrederea în orice astfel de conținut, bunuri sau servicii disponibile pe sau prin intermediul oricăror site-uri web sau servicii ale unor terțe părți."
+            }
+        },
+        "section_14": {
+            "title": "Confidențialitate",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Utilizarea site-ului nostru web și a serviciilor noastre este supusă Politicii noastre de confidențialitate, care poate fi găsită pe site-ul nostru. Prin utilizarea serviciilor noastre, sunteți de acord cu colectarea, utilizarea și dezvăluirea informațiilor dumneavoastră personale conform descrierii din Politica de confidențialitate."
+            }
+        },
+        "section_15": {
+            "title": "Comunicații",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Prin utilizarea site-ului nostru web, sunteți de acord să primiți comunicări de la noi, inclusiv, dar fără a se limita la, e-mailuri, notificări și materiale promoționale. Puteți renunța la primirea comunicărilor de marketing în orice moment, urmând instrucțiunile furnizate în comunicare."
+            }
+        },
+        "section_16": {
+            "title": "Forță majoră",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Compania nu va fi răspunzătoare pentru nicio nereușită sau întârziere în îndeplinirea obligațiilor sale în conformitate cu acest Acord, cauzate de evenimente din afara controlului său rezonabil, inclusiv, dar fără a se limita la, cazuri de forță majoră, dezastre naturale, război, terorism, greve, întreruperi de curent electric sau întreruperi de internet."
+            }
+        },
+        "section_17": {
+            "title": "Renunțare",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Neatenția Companiei de a impune orice drept sau prevedere din acest Acord nu va constitui o renunțare la respectivul drept sau prevedere decât în cazul în care este recunoscută și acceptată în scris de către Companie."
+            }
+        },
+        "section_18": {
+            "title": "Cedare",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Nu aveți dreptul de a atribui sau transfera drepturi sau obligații în conformitate cu acest Acord fără consimțământul prealabil în scris al Companiei. Compania poate atribui sau transfera liber drepturile și obligațiile sale în conformitate cu acest Acord fără restricții."
+            }
+        },
+        "section_19": {
+            "title": "Contactați-ne",
+            "data_1": {
+                "sub_title": "",
+                "content_1": "Dacă aveți întrebări sau nelămuriri cu privire la acești Termeni și Condiții, vă rugăm să ne contactați la [informații de contact]."
+            }
+        }
+    },
+    "footer": {
+        "payment_methods": "metode de plata",
+        "products": {
+            "scheduling": "programări",
+            "analytics": "statistici",
+            "research": "documentație",
+            "roadmap": "parcursul paginii"            
+        },
+        "company": {
+            "blog": "jurnal web",
+            "careers": "cariere",
+            "affiliate_program": "program de afiliere"
+        },
+        "support": {
+            "contact_us": "contactaţi-ne",
+            "report_a_bug": "raportează o eroare",
+            "request_a_new_future": "cere o nouă îmbunătățire"
+        },
+        "use_cases": {
+            "for_agencies": "pentru agenții",
+            "for_personal_use": "pentru uz personal"
+        },
+        "titles": {
+            "product": "produs",
+            "company": "companie",
+            "support": "suport",
+            "use_cases": "cazuri de utilizare"
+        },
+        "privacy_policy": "politica de confidențialitate",
+        "terms_and_conditions": "termeni si condiții",
+        "status": "status"
+
+        
+    }
+}

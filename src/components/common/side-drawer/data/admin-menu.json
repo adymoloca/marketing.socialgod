@@ -1,0 +1,270 @@
+[
+    {
+        "title": "favorites",
+        "children": []
+    },
+    {
+        "title": "dashboard",
+        "children": [
+            {
+                "type": "item",
+                "title": "dashboard",
+                "icon": "bar_chart_4_bars",
+                "url": "dashboard"
+            },
+            {
+                "type": "collapse",
+                "title": "bots",
+                "icon": "device_hub",
+                "url": "bots-details",
+                "children": [
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "all_bots",
+                        "url": "all-bots"
+                    },
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "active_bots",
+                        "url": "active-bots"
+                    },
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "create_bot",
+                        "url": "create-bot"
+                    },
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "config_bots",
+                        "url": "config-bots"
+                    }
+                ]
+            },
+            {
+                "type": "collapse",
+                "title": "add_config",
+                "icon": "note_add",
+                "url": "/",
+                "children": [
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "proxies",
+                        "url": "proxies"
+                    },
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "browser_configs",
+                        "url": "browser-configs"
+                    }
+                ]
+            },
+            {
+                "type": "collapse",
+                "title": "google_accounts",
+                "icon": "public",
+                "url": "/",
+                "children": [
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "all_accounts",
+                        "url": "accounts-google"
+                    },
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "create_account",
+                        "url": "account-google-create"
+                    },
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "add_account",
+                        "url": "account-google-add"
+                    }
+                ]
+            },
+            {
+                "type": "collapse",
+                "title": "outlook_mail",
+                "icon": "forward_to_inbox",
+                "url": "/",
+                "children": [
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "all_emails",
+                        "url": "outlook-emails"
+                    },
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "add_email",
+                        "url": "add-outlook-email"
+                    }
+                ]
+            },
+            {
+                "type": "collapse",
+                "title": "reddit_accounts",
+                "icon": "reddit",
+                "url": "/",
+                "children": [
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "all_accounts",
+                        "url": "accounts-reddit"
+                    },
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "create_account",
+                        "url": "account-reddit-create"
+                    }
+                ]
+            },
+            {
+                "type": "collapse",
+                "title": "staff",
+                "icon": "group",
+                "url": "/",
+                "children": [
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "admins",
+                        "url": "admins"
+                    },
+                    {
+                        "type": "item",
+                        "icon": "",
+                        "title": "partners",
+                        "url": "partners"
+                    }
+                ]
+            },
+            {
+                "type": "item",
+                "icon":"electrical_services",
+                "title": "Services",
+                "url": "services"
+            },
+            {
+                "type": "item",
+                "icon": "shield_person",
+                "title": "Products",
+                "url": "products"
+            },
+            {
+                "type": "item",
+                "title": "newsletter",
+                "icon": "card_membership",
+                "url": "newsletter"
+            },
+            {
+                "type": "item",
+                "title": "currency",
+                "icon": "attach_money",
+                "url": "currency"
+            },
+            {
+                "type": "item",
+                "title": "review",
+                "icon": "reviews",
+                "url": "review"
+            },
+            {
+                "type": "item",
+                "title": "faq",
+                "icon": "question_mark",
+                "url": "faq"
+            },
+            {
+                "type": "item",
+                "title": "settings",
+                "icon": "settings_suggest",
+                "url": "settings"
+            }
+        ]
+    },
+    {
+        "title": "info",
+        "children": [
+            {
+                "type": "item",
+                "title": "post_alert",
+                "icon": "report_problem",
+                "url": "/post-alert"
+            },
+            {
+                "type": "item",
+                "title": "information",
+                "icon": "info",
+                "url": "/information"
+            }
+        ]
+    },
+    {
+        "type": "collapse",
+        "title": "Blogs",
+        "icon": "rss_feed",
+        "url": "/services",
+        "children": [
+            {
+                "type": "children",
+                "title": "all-blogs",
+                "icon": "",
+                "url": "blogs"
+            },
+            {
+                "type": "children",
+                "title": "add_blog",
+                "icon": "",
+                "url": "add-blogs"
+            }
+        ]
+    },
+    {
+    "type": "item",
+    "title": "media",
+    "icon": "perm_media",
+    "url": "media"
+    },
+    {
+        "type": "item",
+        "title": "newsletter",
+        "icon": "card_membership",
+        "url": "newsletter"
+    },
+    {
+        "type": "item",
+        "title": "currency",
+        "icon": "attach_money",
+        "url": "currency"
+    },
+    {
+        "type": "item",
+        "title": "review",
+        "icon": "reviews",
+        "url": "review"
+    },
+    {
+        "type": "item",
+        "title": "faq",
+        "icon": "question_mark",
+        "url": "faq"
+    },
+    {
+        "type": "item",
+        "title": "settings",
+        "icon": "settings_suggest",
+        "url": "settings"
+    }
+]
